@@ -1,8 +1,5 @@
 # EU-scale-search
-They work for you at EU scale
-
-## Drive folder access
-https://drive.google.com/drive/folders/1aRD5qDPiUswE4a_9leY8zpNXfc4dMF77?usp=sharing
-
-## Waar ik het verslag momenteel schrijf
-https://docs.google.com/document/d/1QmsA0I7fedvSVRdaNUUk7-OkcWR4yQnAJ538RpLvGDE/edit?usp=sharing
+- The contents of this repository are used to generate data for Elasticsearch from the Parlamint dataset
+- Elasticsearch functions as the back-end for the `Debate-a-Base` website
+- Instructions on setting everything up, can be found on:
+    - https://github.com/AsherIDE/Debate-a-Base
